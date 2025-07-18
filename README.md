@@ -14,11 +14,9 @@ Before running this project, ensure you have the following installed:
 
 - Open a terminal or command prompt on your computer and run:
 - Run the following command to clone the repository:
-
   ```bash
-
+  git clone https://github.com/fahmida1999/HAS.git
   ```
-
 - Navigate into the cloned project directory:
 
   ```bash
