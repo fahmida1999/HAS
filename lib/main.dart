@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'screens/account_manager/account_manager_page.dart';
+import 'screens/prescription/prescription_page.dart';
 
 void main() {
   runApp(const MyApp());
